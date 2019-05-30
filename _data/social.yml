@@ -1,2 +1,4 @@
 - link: //www.twitter.com/annowiki
   icon: icon-twitter
+- link: /feed.xml
+  icon: icon-feed

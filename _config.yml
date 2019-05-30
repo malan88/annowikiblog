@@ -3,7 +3,7 @@ title: annowiki.blog
 subtitle: anno.wiki’s blog
 author: anno.wiki
 simple_search: http://google.com/search
-description: A Jekyll theme for content-rich sites
+description: The blog for anno.wiki
 name: tufte
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
@@ -24,4 +24,3 @@ transfer:
   command: rsync
   settings: -av
   source: _site/
-  destination: ~/Git/clayh53.github.com/

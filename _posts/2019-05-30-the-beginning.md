@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "The Beginning"
+title:  "It's Alive!"
 date:   2019-05-29 13:45:04
 categories: annowiki update
 ---
 
-[anno.wiki][0] is now live!
+{% newthought '[anno.wiki][0] is now live!' %}
 
-It is currently in beta mode, which means registration is only possible with a
+{% newthought 'It is currently in beta mode,' %} which means registration is only possible with a
 magic link I can send out. I will start inviting more people as I get more of
 the baubles done.
 

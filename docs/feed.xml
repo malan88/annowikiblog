@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>annowiki.blog</title>
+    <description>A Jekyll theme for content-rich sites</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 30 May 2019 14:16:47 -0400</pubDate>
+    <lastBuildDate>Thu, 30 May 2019 14:16:47 -0400</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>It's Alive!</title>
+        <description>&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;&lt;a href=&quot;http://anno.wiki&quot;&gt;anno.wiki&lt;/a&gt; is now live!&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;It is currently in beta mode,&lt;/span&gt;  which means registration is only possible with a
+magic link I can send out. I will start inviting more people as I get more of
+the baubles done.&lt;/p&gt;
+
+&lt;p&gt;For instance, the bottom links, one of which links here, are still mostly dead.
+This has to change.&lt;/p&gt;
+
+&lt;p&gt;I created the twitter in the course of making this blog, but haven’t done
+anything on it yet. Unsure if I want to create a Mastadon and/or a Facebook. I
+am more inclined toward Mastadon.&lt;/p&gt;
+
+&lt;p&gt;I have gotten the email system working.&lt;/p&gt;
+
+&lt;p&gt;I am still indexing lines. Holy cow is that slow. Turns out there’s a bulk_index
+function to do what I’m doing but I totally am already ¾ of the way
+through indexing so it’s a little late for that.&lt;/p&gt;
+
+&lt;p&gt;There are still some styling flubs in the pages. Especially for mobile. Verse
+gets concatenated the same as everything and, even worse, when everything gets
+concatenated on mobile, the paragraph separations disappear.&lt;/p&gt;
+
+&lt;p&gt;I have to set up ssl for the main url, anno.wiki. For now that means secure
+connections are only available via &lt;a href=&quot;https://annowiki.herokuapp.com&quot;&gt;annowiki.herokuapp.com&lt;/a&gt;. That won’t be for
+long.&lt;/p&gt;
+
+&lt;p&gt;I got &lt;a href=&quot;http://annowiki.blog&quot;&gt;annowiki.blog&lt;/a&gt; to point to /docs in the text-processing repo, but now
+I have to try to set that up with this annowikiblog repo.&lt;/p&gt;
+
+&lt;p&gt;So this first post is a breathless one. Somewhat of a Mission Accomplished
+moment. Because anno.wiki is far from live.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 29 May 2019 09:45:04 -0400</pubDate>
+        <link>/articles/19/the-beginning</link>
+        <guid isPermaLink="true">/articles/19/the-beginning</guid>
+        
+        
+        <category>annowiki</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>

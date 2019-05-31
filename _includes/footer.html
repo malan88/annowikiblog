@@ -8,8 +8,18 @@
       </li>
     {% endfor %}
   </ul>
-<div class="credits">
-<span>&copy; {{ site.time | date: '%Y' }} &nbsp;&nbsp;{{site.author | upcase }}</span></br> <br>
-<span>This site created with the <a href="//github.com/clayh53/tufte-jekyll">Tufte theme for {{site.subtitle}} </a> in <a href="//jekyllrb.com">Jekyll</a>.</span>
-</div>
+    <div class="credits">
+        <span>&copy; {{ site.time | date: '%Y' }} &nbsp;&nbsp;{{site.author | upcase }}</span></br> <br>
+        <div class="colophon">
+            COLOPHON: This blog is a static site generated using
+            <a href="https://jekyllrb.com/">Jekyll</a>. The theme, called
+            <a href="https://github.com/clayh53/tufte-jekyll">Tufte Jekyll</a>,
+            was developed by <a href="http://www.clayharmon.com/">Clay Harmon</a>,
+            working from <a href="https://github.com/edwardtufte/tufte-css">Tufte CSS</a>,
+            a project which attempts to recreate the aesthetic and style of
+            books and handouts by the American statistician, and pioneer in the
+            field of data visualization,
+            <a href="https://en.wikipedia.org/wiki/Edward_Tufte">Edward Tufte</a>.
+        </div>
+    </div>
 </footer>

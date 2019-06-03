@@ -5,9 +5,42 @@
     <description>The blog for anno.wiki</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 31 May 2019 11:18:57 -0400</pubDate>
-    <lastBuildDate>Fri, 31 May 2019 11:18:57 -0400</lastBuildDate>
+    <pubDate>Mon, 03 Jun 2019 09:39:57 -0400</pubDate>
+    <lastBuildDate>Mon, 03 Jun 2019 09:39:57 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Fixing a few bugs</title>
+        <description>&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;This place is a ghost town.&lt;/span&gt;  But only for now. I am almost
+done fixing the minor tweaks before I start inviting beta users.&lt;/p&gt;
+
+&lt;p&gt;The bottom links are no longer dead. I have set up this blog (obviously) and
+created static pages for Terms, Contact, and About on this annowiki.blog. I
+don’t see any reason to use anno.wiki to create thouse.&lt;/p&gt;
+
+&lt;p&gt;I have created a twitter but haven’t started using it yet. I will be creating a
+Mastadon, Facebook, and god knows what else.&lt;/p&gt;
+
+&lt;p&gt;I have the indexing system under control. There is one minor tweak I need to
+make to annotation edits in the back end (a database adjustment) which will be
+the first database migration I will ever do live. I want to do it before I start
+inviting people. It will consolidate a lot of gains I made two weeks ago before
+I launched.&lt;/p&gt;
+
+&lt;p&gt;I also still need to fix the stylistic flubs.&lt;/p&gt;
+
+&lt;p&gt;All this will be done in the next week. Then I will invite more users.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Jun 2019 05:34:00 -0400</pubDate>
+        <link>/articles/19/update</link>
+        <guid isPermaLink="true">/articles/19/update</guid>
+        
+        
+        <category>annowiki</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>It's Alive!</title>

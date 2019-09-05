@@ -5,9 +5,87 @@
     <description>The blog for anno.wiki</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 30 Aug 2019 09:07:50 -0400</pubDate>
-    <lastBuildDate>Fri, 30 Aug 2019 09:07:50 -0400</lastBuildDate>
+    <pubDate>Thu, 05 Sep 2019 14:32:53 -0400</pubDate>
+    <lastBuildDate>Thu, 05 Sep 2019 14:32:53 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Populating the Database</title>
+        <description>&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;So reddit might&lt;/span&gt;  just be the place to find some users. I have
+one interested person that came out of my [r/shakespeare][0] post. It is hard
+for me to expect people to annotate if I don’t, so I’ve been annotating myself
+somewhat. I’ve added about 20. I want to add more.&lt;/p&gt;
+
+&lt;p&gt;I added a new tag, speculation, for when an annotation is warranted but there is
+no proof for the assertion.&lt;/p&gt;
+
+&lt;p&gt;As I’ve said time and time again, I do not know where users will want to go with
+the way the culture operates &lt;em&gt;because I have no users yet&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;I’m planning on posting to r/books tomorrow. They expect you to have previous
+interaction with the community. So I went on a posting spree and now I’m up to
+312 points pretty much just from r/books. It was surprisingly easy. They are
+friendly folks. This also means that when my first month is up on Reddit I’ll be
+able to create an annowiki subreddit.&lt;/p&gt;
+
+&lt;p&gt;I also am planning on posting to Show HN tomorrow on Hacker News. We’ll see if
+it gets upvoted. I’ll try again if it doesn’t. It sounds like HN Hug of Death is
+nowhere near as severe as I anticipated.&lt;/p&gt;
+
+&lt;p&gt;It seems my Google SEO is not so bad. If you search for “Hamlet anno”, for
+instance, you’ll get me as the third result. “anno wiki” still puts me on the
+second page, but hopefully that will change. Don’t know how to do a sitemap, but
+will figure it out.&lt;/p&gt;
+
+&lt;p&gt;Finally, I’m going to start adding some books. This is a list of stuff I’m
+interested in adding in no particular order:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Geneva Bible&lt;/li&gt;
+  &lt;li&gt;Book of Common Prayer&lt;/li&gt;
+  &lt;li&gt;Plautus&lt;/li&gt;
+  &lt;li&gt;Ovid&lt;/li&gt;
+  &lt;li&gt;Chaucer&lt;/li&gt;
+  &lt;li&gt;Homer&lt;/li&gt;
+  &lt;li&gt;Pope&lt;/li&gt;
+  &lt;li&gt;Joyce&lt;/li&gt;
+  &lt;li&gt;Dickens&lt;/li&gt;
+  &lt;li&gt;Keats, Byron, Shelley, Wordsworth&lt;/li&gt;
+  &lt;li&gt;Jane Austen&lt;/li&gt;
+  &lt;li&gt;John Milton&lt;/li&gt;
+  &lt;li&gt;Song of Roland&lt;/li&gt;
+  &lt;li&gt;Eugene O’Neill&lt;/li&gt;
+  &lt;li&gt;Tennessee Williams&lt;/li&gt;
+  &lt;li&gt;Whitman&lt;/li&gt;
+  &lt;li&gt;Mellville&lt;/li&gt;
+  &lt;li&gt;Twain&lt;/li&gt;
+  &lt;li&gt;Fredrick Douglass&lt;/li&gt;
+  &lt;li&gt;Uncle Tom’s Cabin&lt;/li&gt;
+  &lt;li&gt;Beowulf&lt;/li&gt;
+  &lt;li&gt;Henry James&lt;/li&gt;
+  &lt;li&gt;Jonathan Edwards&lt;/li&gt;
+  &lt;li&gt;Tao Te Ching&lt;/li&gt;
+  &lt;li&gt;Balzac&lt;/li&gt;
+  &lt;li&gt;Proust&lt;/li&gt;
+  &lt;li&gt;Zola&lt;/li&gt;
+  &lt;li&gt;JS Mill&lt;/li&gt;
+  &lt;li&gt;Proudhon&lt;/li&gt;
+  &lt;li&gt;Bakunin&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;That’s it for now.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 30 Aug 2019 04:45:00 -0400</pubDate>
+        <link>/articles/19/population</link>
+        <guid isPermaLink="true">/articles/19/population</guid>
+        
+        
+        <category>annowiki</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Launch in Earnest</title>

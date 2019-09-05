@@ -67,4 +67,4 @@ interested in adding in no particular order:
 
 That's it for now.
 
-[1]: https://www.reddit.com/r/shakespeare/comments/cuiw6s/i_devoted_my_last_year_to_building_something_for/
+[0]: https://www.reddit.com/r/shakespeare/comments/cuiw6s/i_devoted_my_last_year_to_building_something_for/

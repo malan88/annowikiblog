@@ -5,14 +5,14 @@
     <description>The blog for anno.wiki</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Sep 2019 14:32:53 -0400</pubDate>
-    <lastBuildDate>Thu, 05 Sep 2019 14:32:53 -0400</lastBuildDate>
+    <pubDate>Thu, 05 Sep 2019 14:35:02 -0400</pubDate>
+    <lastBuildDate>Thu, 05 Sep 2019 14:35:02 -0400</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Populating the Database</title>
         <description>&lt;p&gt;&lt;span class=&quot;newthought&quot;&gt;So reddit might&lt;/span&gt;  just be the place to find some users. I have
-one interested person that came out of my [r/shakespeare][0] post. It is hard
+one interested person that came out of my &lt;a href=&quot;https://www.reddit.com/r/shakespeare/comments/cuiw6s/i_devoted_my_last_year_to_building_something_for/&quot;&gt;r/shakespeare&lt;/a&gt; post. It is hard
 for me to expect people to annotate if I don’t, so I’ve been annotating myself
 somewhat. I’ve added about 20. I want to add more.&lt;/p&gt;
 
